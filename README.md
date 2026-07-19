@@ -6,16 +6,16 @@ zip of all known tags available as well as individual .txt files of my collectio
 Includes **ALL** Smart Minifigs, all vehicles **except** the A-Wing and only **5 missing Tiles** listed below.
 
 75422 Yoda's Hut and Jedi Training - 
-2 Missing
-Cauldron
+2 Missing:
+Cauldron,
 Force Training Seesaw
 
 75426 Millennium Falcon -
-1 Missing
+1 Missing:
 Docking Ring
 
 75427 Throne Room Duel & A-Wing - 
-3 Missing 
-Throne Chair
-Death Star Turbo Laser Cannon
+3 Missing: 
+Throne Chair,
+Death Star Turbo Laser Cannon,
 A-Wing
