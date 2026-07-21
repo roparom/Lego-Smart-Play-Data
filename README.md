@@ -3,12 +3,11 @@ Tested and working written to ISO15693 Slix2 tags. Can be fit perfectly on a 3x3
 
 zip of all known tags available as well as individual .txt files of my collection.
 
-Includes **ALL** Smart Minifigs, all vehicles **except** the A-Wing and only **5 missing Tiles** listed below.
+Includes **ALL** Smart Minifigs, all vehicles **except** the A-Wing and only **4 missing tiles** listed below.
 
 75422 Yoda's Hut and Jedi Training - 
-2 Missing:
-Cauldron,
-Force Training Seesaw
+1 Missing:
+Cauldron
 
 75426 Millennium Falcon -
 1 Missing:
